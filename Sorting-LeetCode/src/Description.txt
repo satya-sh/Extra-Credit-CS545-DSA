@@ -1,5 +1,7 @@
 3 Easy Problems - LeetCOde
 
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/Sorting-LeetCode/src
+
 Problem 1: Relative Sort Array
     Given two arrays arr1 and arr2, the elements of arr2 are distinct, and all elements in arr2 are also in arr1.
 
