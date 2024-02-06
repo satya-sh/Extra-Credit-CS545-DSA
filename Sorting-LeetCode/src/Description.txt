@@ -1,0 +1,24 @@
+3 Easy Problems - LeetCOde
+
+Problem 1: Relative Sort Array
+    Given two arrays arr1 and arr2, the elements of arr2 are distinct, and all elements in arr2 are also in arr1.
+
+    Sort the elements of arr1 such that the relative ordering of items in arr1 are the same as in arr2. Elements that do not appear in arr2 should be placed at the end of arr1 in ascending order.
+
+    LINK: https://leetcode.com/problems/relative-sort-array/description/
+
+Problem 2: Sort the People
+    You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n.
+
+    For each index i, names[i] and heights[i] denote the name and height of the ith person.
+
+    Return names sorted in descending order by the people's heights.
+
+    LINK: https://leetcode.com/problems/sort-the-people/description/
+
+Problem 3: Sort Array By Parity
+    Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
+
+    Return any array that satisfies this condition.
+
+    LINK: https://leetcode.com/problems/sort-array-by-parity/description/
