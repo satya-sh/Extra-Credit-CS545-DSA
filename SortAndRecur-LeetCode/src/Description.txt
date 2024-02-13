@@ -1,6 +1,6 @@
 3 Easy Problems - LeetCode
 
-GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/Sorting-LeetCode/src
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/SortAndRecur-LeetCode/src
 
 Problem 1: Power of Three
     Given an integer n, return true if it is a power of three. Otherwise, return false.
