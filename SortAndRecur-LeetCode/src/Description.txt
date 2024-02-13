@@ -1,4 +1,4 @@
-3 Easy Problems - LeetCOde
+3 Easy Problems - LeetCode
 
 GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/Sorting-LeetCode/src
 
@@ -9,14 +9,14 @@ Problem 1: Power of Three
 
     LINK: https://leetcode.com/problems/power-of-three/description/
 
-Problem 2: Sort the People
-    You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n.
+Problem 2: Fibonacci Number
+    The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
-    For each index i, names[i] and heights[i] denote the name and height of the ith person.
+    F(0) = 0, F(1) = 1
+    F(n) = F(n - 1) + F(n - 2), for n > 1.
+    Given n, calculate F(n).
 
-    Return names sorted in descending order by the people's heights.
-
-    LINK: https://leetcode.com/problems/sort-the-people/description/
+    LINK: https://leetcode.com/problems/fibonacci-number/description/
 
 Problem 3: Sort Array By Parity
     Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
