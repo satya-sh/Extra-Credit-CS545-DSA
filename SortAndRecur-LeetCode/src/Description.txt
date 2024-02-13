@@ -18,9 +18,7 @@ Problem 2: Fibonacci Number
 
     LINK: https://leetcode.com/problems/fibonacci-number/description/
 
-Problem 3: Sort Array By Parity
-    Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
+Problem 3: Contains Duplicate
+    Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
-    Return any array that satisfies this condition.
-
-    LINK: https://leetcode.com/problems/sort-array-by-parity/description/
+    LINK: https://leetcode.com/problems/contains-duplicate/description/
