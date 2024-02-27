@@ -17,8 +17,3 @@ Problem 2: How Many Numbers Are Smaller Than the Current Number
     Return the answer in an array.
 
     LINK: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
-
-Problem 3: Intersection of Two Arrays
-    Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
-
-    LINK: https://leetcode.com/problems/intersection-of-two-arrays/description/
