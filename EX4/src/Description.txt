@@ -1,19 +1,26 @@
 2 Medium Problems - LeetCode
 
-GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EXThree/src
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EX4/src
 
-Problem 1: Widest Vertical Area Between Two Points Containing No Points
-    Given n points on a 2D plane where points[i] = [xi, yi], Return the widest vertical area between two points such that no points are inside the area.
+Problem 1: Sort the Students by Their Kth Score
+    There is a class with m students and n exams. You are given a 0-indexed m x n integer matrix score, where each row represents one student and score[i][j] denotes the score the ith student got in the jth exam. The matrix score contains distinct integers only.
 
-    A vertical area is an area of fixed-width extending infinitely along the y-axis (i.e., infinite height). The widest vertical area is the one with the maximum width.
+    You are also given an integer k. Sort the students (i.e., the rows of the matrix) by their scores in the kth (0-indexed) exam from the highest to the lowest.
 
-    Note that points on the edge of a vertical area are not considered included in the area.
+    Return the matrix after sorting it.
 
-    LINK: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/
+    LINK: https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/
 
-Problem 2: How Many Numbers Are Smaller Than the Current Number
-    Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i].
+Problem 2: Maximum Number of Coins You Can Get
+    There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:
 
-    Return the answer in an array.
+    In each step, you will choose any 3 piles of coins (not necessarily consecutive).
+    Of your choice, Alice will pick the pile with the maximum number of coins.
+    You will pick the next pile with the maximum number of coins.
+    Your friend Bob will pick the last pile.
+    Repeat until there are no more piles of coins.
+    Given an array of integers piles where piles[i] is the number of coins in the ith pile.
 
-    LINK: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+    Return the maximum number of coins that you can have.
+
+    LINK: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/
