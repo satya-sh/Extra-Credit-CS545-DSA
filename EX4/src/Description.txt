@@ -1,0 +1,24 @@
+2 Medium Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EXThree/src
+
+Problem 1: Widest Vertical Area Between Two Points Containing No Points
+    Given n points on a 2D plane where points[i] = [xi, yi], Return the widest vertical area between two points such that no points are inside the area.
+
+    A vertical area is an area of fixed-width extending infinitely along the y-axis (i.e., infinite height). The widest vertical area is the one with the maximum width.
+
+    Note that points on the edge of a vertical area are not considered included in the area.
+
+    LINK: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/
+
+Problem 2: How Many Numbers Are Smaller Than the Current Number
+    Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i].
+
+    Return the answer in an array.
+
+    LINK: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+
+Problem 3: Intersection of Two Arrays
+    Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
+
+    LINK: https://leetcode.com/problems/intersection-of-two-arrays/description/
