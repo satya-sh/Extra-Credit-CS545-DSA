@@ -1,0 +1,26 @@
+3 Easy Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EX5/src
+
+Problem 1: Merge Two Sorted Lists
+    You are given the heads of two sorted linked lists list1 and list2.
+
+    Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+    Return the head of the merged linked list.
+
+    LINK: https://leetcode.com/problems/merge-two-sorted-lists/description/
+
+Problem 2: Convert Binary Number in a Linked List to Integer
+    Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.
+
+    Return the decimal value of the number in the linked list.
+
+    The most significant bit is at the head of the linked list.
+
+    LINK: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+
+Problem 2: Reverse Linked List
+    Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+    LINK: https://leetcode.com/problems/reverse-linked-list/description/
