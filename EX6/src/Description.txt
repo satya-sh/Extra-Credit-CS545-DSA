@@ -1,0 +1,26 @@
+3 Easy Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EX6/src
+
+Problem 1: Range Sum of BST
+    Given the root node of a binary search tree and two integers low and high,
+    return the sum of values of all nodes with a value in the inclusive range [low, high].
+
+    LINK: https://leetcode.com/problems/range-sum-of-bst/description/
+
+Problem 2: Root Equals Sum of Children
+    You are given the root of a binary tree that consists of exactly 3 nodes: the root,
+    its left child, and its right child.
+
+    Return true if the value of the root is equal to the sum of the values of its two children,
+    or false otherwise.
+
+    LINK: https://leetcode.com/problems/root-equals-sum-of-children/description/
+
+Problem 2: Search in a Binary Search Tree
+    You are given the root of a binary search tree (BST) and an integer val.
+
+    Find the node in the BST that the node's value equals val and return the subtree rooted with that node.
+    If such a node does not exist, return null.
+
+    LINK: https://leetcode.com/problems/search-in-a-binary-search-tree/description/
