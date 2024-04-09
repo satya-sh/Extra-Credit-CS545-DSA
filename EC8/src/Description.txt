@@ -1,0 +1,22 @@
+3 Easy Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EC8/src
+
+Problem 1: Maximum Depth of Binary Tree
+    Given the root of a binary tree, return its maximum depth.
+
+    A binary tree's maximum depth is the number of nodes along
+    the longest path from the root node down to the farthest leaf node.
+
+    LINK: https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+
+Problem 2: Sum of Root To Leaf Binary Numbers
+    You are given the root of a binary tree where each node has a value 0 or 1.
+    Each root-to-leaf path represents a binary number starting with the most significant bit.
+
+    LINK: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/
+
+Problem 3: Binary Tree Paths
+    Given the root of a binary tree, return all root-to-leaf paths in any order.
+
+    LINK: https://leetcode.com/problems/binary-tree-paths/description/
