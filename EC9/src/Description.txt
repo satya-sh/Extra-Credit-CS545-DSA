@@ -1,0 +1,28 @@
+3 Easy Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EC9/src
+
+Problem 1: Number of Good Pairs
+    Given an array of integers nums, return the number of good pairs.
+
+    A pair (i, j) is called good if nums[i] == nums[j] and i < j.
+
+    LINK: https://leetcode.com/problems/number-of-good-pairs/description/
+
+Problem 2: Jewels and Stones
+    You're given strings jewels representing the types of stones that are jewels,
+    and stones representing the stones you have. Each character in stones is a type
+    of stone you have. You want to know how many of the stones you have are also jewels.
+
+    Letters are case sensitive, so "a" is considered a different type of stone from "A".
+
+    LINK: https://leetcode.com/problems/jewels-and-stones/description/
+
+Problem 3: Same Tree
+    Given the roots of two binary trees p and q, write a function to check if
+    they are the same or not.
+
+    Two binary trees are considered the same if they are structurally identical,
+    and the nodes have the same value.
+
+    LINK: https://leetcode.com/problems/same-tree/description/
