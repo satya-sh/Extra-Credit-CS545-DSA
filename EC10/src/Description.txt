@@ -1,0 +1,22 @@
+2 Medium Problems - LeetCode
+
+GitHub Repo Link: https://github.com/satya-sh/Extra-Credit-CS545-DSA/tree/main/EC10/src
+
+Problem 1: All Paths From Source to Target
+    Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n - 1, find all possible paths from node 0 to node n - 1 and return them in any order.
+
+    The graph is given as follows: graph[i] is a list of all nodes you can visit from node i (i.e., there is a directed edge from node i to node graph[i][j]).
+
+    LINK: https://leetcode.com/problems/all-paths-from-source-to-target/description/
+
+Problem 2: Number of Provinces
+    There are n cities. Some of them are connected, while some are not. If city a is connected directly with city b, and city b is connected directly with city c,
+    then city a is connected indirectly with city c.
+
+    A province is a group of directly or indirectly connected cities and no other cities outside of the group.
+
+    You are given an n x n matrix isConnected where isConnected[i][j] = 1 if the ith city and the jth city are directly connected, and isConnected[i][j] = 0 otherwise.
+
+    Return the total number of provinces.
+
+    LINK: https://leetcode.com/problems/number-of-provinces/description/
